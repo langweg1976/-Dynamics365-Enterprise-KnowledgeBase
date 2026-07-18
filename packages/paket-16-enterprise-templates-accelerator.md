@@ -1,20 +1,20 @@
----
+    ---
 title: Paket 16 - Enterprise Templates & Accelerator
 version: 0.1
 language: de
 tags:
   - paket-16
-  - templates
-  - accelerator
+  - enterprise-templates-and-accelerator
+  - dynamics-365
 ---
 
-# Paket 16 - Enterprise Templates & Accelerator
+    # Paket 16 - Enterprise Templates & Accelerator
 
-Dieses Paket bündelt alle wiederverwendbaren Dokumentvorlagen und Standardbausteine.
+    Dieses Paket bündelt alle wiederverwendbaren Dokumentvorlagen und Standardbausteine.
 
-## Inhalte
+    ## Themen
 
-- RFP_Bewertungskriterien
+    - RFP_Bewertungskriterien
 - FIT_GAP_Template
 - Prozessdokumentation_Template
 - Rollenmatrix_RACI
@@ -23,8 +23,8 @@ Dieses Paket bündelt alle wiederverwendbaren Dokumentvorlagen und Standardbaust
 - Architekturentscheidungen_ADR
 - KPI-Katalog
 
-## Verweise
+    ## Verweise
 
-- [Paket-Index](README.md)
-- [Vorlagen und Accelerator](../templates/README.md)
-- [F-ID-Katalog](../indexes/f-id-katalog.md)
+    - [Paket-Index](README.md)
+    - [Dokumentations-Startseite](../docs/README.md)
+    - [F-ID-Katalog](../indexes/f-id-katalog.md)

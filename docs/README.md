@@ -10,7 +10,7 @@ tags:
 
 # Dokumentations-Startseite
 
-Diese Seite führt durch die wesentlichen Bereiche der Knowledge Base.
+Diese Seite führt durch die wesentlichen Bereiche der Knowledge Base.
 
 ## Bereiche
 

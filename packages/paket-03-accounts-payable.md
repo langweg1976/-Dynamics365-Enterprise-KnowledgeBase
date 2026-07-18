@@ -1,4 +1,4 @@
----
+    ---
 title: Paket 03 - Accounts Payable
 version: 0.1
 language: de
@@ -8,19 +8,19 @@ tags:
   - dynamics-365
 ---
 
-# Paket 03 - Accounts Payable
+    # Paket 03 - Accounts Payable
 
-Dieses Paket beschreibt die Prozesse der Kreditorenbuchhaltung.
+    Dieses Paket behandelt Verbindlichkeiten, Lieferanten und Eingangsrechnungen.
 
-## Themen
+    ## Themen
 
-- Lieferantenstammdaten und Zahlungsbedingungen
-- Eingangsrechnungen und Freigaben
-- Zahlungsprozesse und Mahnwesen
-- Kontierung, Abstimmung und Belegfluss
+    - Lieferantenstammdaten und Konditionen
+- Eingangsrechnungen, Freigaben und Zahlungsläufe
+- Skonti, Zahlungspläne und Abstimmung
+- Prozess- und Kontrolldokumentation
 
-## Verweise
+    ## Verweise
 
-- [Paket-Index](README.md)
-- [Dokumentations-Startseite](../docs/README.md)
-- [F-ID-Katalog](../indexes/f-id-katalog.md)
+    - [Paket-Index](README.md)
+    - [Dokumentations-Startseite](../docs/README.md)
+    - [F-ID-Katalog](../indexes/f-id-katalog.md)

@@ -1,4 +1,4 @@
----
+    ---
 title: Paket 01 - Grundlagen
 version: 0.1
 language: de
@@ -8,19 +8,19 @@ tags:
   - dynamics-365
 ---
 
-# Paket 01 - Grundlagen
+    # Paket 01 - Grundlagen
 
-Dieses Paket bildet die Basis für die gesamte Knowledge Base.
+    Dieses Paket bildet die Basis für die gesamte Knowledge Base.
 
-## Themen
+    ## Themen
 
-- Überblick über Dynamics 365 Finance und Supply Chain Management
+    - Überblick über Dynamics 365 Finance und Supply Chain Management
 - Begriffsdefinitionen
 - Navigations- und Suchlogik
 - Dokumentationskonventionen
 
-## Verweise
+    ## Verweise
 
-- [Paket-Index](README.md)
-- [Dokumentations-Startseite](../docs/README.md)
-- [F-ID-Katalog](../indexes/f-id-katalog.md)
+    - [Paket-Index](README.md)
+    - [Dokumentations-Startseite](../docs/README.md)
+    - [F-ID-Katalog](../indexes/f-id-katalog.md)
