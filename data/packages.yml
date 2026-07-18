@@ -1,0 +1,140 @@
+- description: Dieses Paket bildet die Basis für die gesamte Knowledge Base.
+  number: 1
+  title: Grundlagen
+  topics: [Überblick über Dynamics 365 Finance und Supply Chain Management, Begriffsdefinitionen,
+    Navigations- und Suchlogik, Dokumentationskonventionen]
+- description: Dieses Paket behandelt Forderungen, Debitoren und Zahlungsprozesse.
+  number: 2
+  title: Accounts Receivable
+  topics: [Debitorenstammdaten und Zahlungsbedingungen, 'Rechnungsstellung, Mahnwesen
+      und Ausgleich', 'Gutschriften, Skonti und Offene-Posten-Steuerung', Reporting
+      und Abstimmung]
+- description: Dieses Paket behandelt Verbindlichkeiten, Lieferanten und Eingangsrechnungen.
+  number: 3
+  title: Accounts Payable
+  topics: [Lieferantenstammdaten und Konditionen, 'Eingangsrechnungen, Freigaben und
+      Zahlungsläufe', 'Skonti, Zahlungspläne und Abstimmung', Prozess- und Kontrolldokumentation]
+- description: Dieses Paket beschreibt das Hauptbuch und die Finanzkontrolle.
+  number: 4
+  title: General Ledger
+  topics: [Kontenplan und Buchungsdimensionen, Periodenabschluss und Abstimmung, Buchungsregeln
+      und Kontrollen, Berichte und Nachweise]
+- description: Dieses Paket beschreibt Kasse, Bank und Liquiditätsprozesse.
+  number: 5
+  title: Cash and Bank
+  topics: [Bankkonten und Zahlungswege, Ein- und Auszahlungen, Bankabstimmung, Liquiditätsübersichten]
+- description: Dieses Paket beschreibt das Anlagevermögen.
+  number: 6
+  title: Fixed Assets
+  topics: [Anlagenstammdaten und Komponenten, 'Zugänge, Umbuchungen und Abgänge',
+    Abschreibung und Bewertung, Anlagenberichte und Abstimmungen]
+- description: Dieses Paket beschreibt die Bestands- und Lagerlogik.
+  number: 7
+  title: Inventory Management
+  topics: ['Lagerorte, Lagerplätze und Bestände', 'Buchungen, Umlagerungen und Inventuren',
+    'Chargen, Seriennummern und Rückverfolgung', Reservierungen und Verfügbarkeiten]
+- description: Dieses Paket beschreibt Einkauf und Beschaffung.
+  number: 8
+  title: Procurement and Sourcing
+  topics: ['Bedarfe, Bestellungen und Lieferantensteuerung', Freigaben und Governance,
+    Wareneingang und Rechnungsbezug, Lieferantenbewertung]
+- description: Dieses Paket beschreibt Aufträge, Verkauf und Vertriebssteuerung.
+  number: 9
+  title: Sales and Marketing
+  topics: ['Angebote, Aufträge und Auftragsstatus', Kundenkonditionen und Preisfindung,
+    'Lieferung, Faktura und Gutschriften', Vertriebsreporting]
+- description: Dieses Paket beschreibt Planung und Versorgungssignale.
+  number: 10
+  title: Master Planning
+  topics: [Nachfrage- und Bedarfsplanung, Planungsvorschläge und Regeln, Planaufträge
+      und Rescheduling, Planungskennzahlen]
+- description: Dieses Paket beschreibt Fertigung und Produktionssteuerung.
+  number: 11
+  title: Production Control
+  topics: ['Stücklisten, Arbeitspläne und Ressourcen', Produktionsaufträge und
+      Rückmeldungen, 'Ausschuss, Nacharbeit und Meldeprozesse', Produktionscontrolling]
+- description: Dieses Paket beschreibt Warehouse Management.
+  number: 12
+  title: Warehouse Management
+  topics: [Lagerprozesse und mobile Geräte, 'Einlagerung, Auslagerung und Wellen',
+    'Zonen, Wege und Kommissionierung', Bestandsgenauigkeit]
+- description: Dieses Paket beschreibt Transport und Versandsteuerung.
+  number: 13
+  title: Transportation Management
+  topics: [Transportaufträge und Routen, Carrierauswahl und Kosten, Versandprozesse
+      und Tracking, Transportreports]
+- description: Dieses Paket beschreibt Projekte und Projektbuchhaltung.
+  number: 14
+  title: Project Management and Accounting
+  topics: ['Projekte, Phasen und Rollen', Budgets und Kostenkontrolle, Abrechnung
+      und Umsatz, Projektberichte]
+- description: Dieses Paket beschreibt Service- und After-Sales-Prozesse.
+  number: 15
+  title: Service Management
+  topics: [Serviceaufträge und Serviceobjekte, Garantien und SLAs, Techniker- und
+      Einsatzplanung, Serviceauswertungen]
+- description: Dieses Paket bündelt alle wiederverwendbaren Dokumentvorlagen und
+    Standardbausteine.
+  number: 16
+  title: Enterprise Templates & Accelerator
+  topics: [RFP_Bewertungskriterien, FIT_GAP_Template, Prozessdokumentation_Template,
+    Rollenmatrix_RACI, Schnittstellenkatalog, Datenobjektkatalog, Architekturentscheidungen_ADR,
+    KPI-Katalog]
+- description: Dieses Paket enthält den vollständigen F-ID-Katalog mit Verweisen.
+  number: 17
+  title: F-ID-Katalog
+  topics: [F01 bis F101, Verantwortlichkeiten, Fachliche Zuordnung, Querverweise auf
+      Prozess- und Integrationsdokumente]
+- description: Dieses Paket dokumentiert das Fortune-Handbuch.
+  number: 18
+  title: Fortune-Handbuch
+  topics: [Einführung, Prozesse, Schnittstellen, Betrieb und Support]
+- description: Dieses Paket dokumentiert das WAMAS-Handbuch.
+  number: 19
+  title: WAMAS-Handbuch
+  topics: [Einführung, Lagerprozesse, Integration, Betrieb und Support]
+- description: Dieses Paket dokumentiert Seeburger-EDI.
+  number: 20
+  title: Seeburger EDI
+  topics: [Nachrichtenarten, Mappings, Monitoring, Fehlerhandling]
+- description: Dieses Paket dokumentiert Easy Archive.
+  number: 21
+  title: Easy Archive
+  topics: [Ablageprozesse, Indexierung, Aufbewahrung, Wiederauffindbarkeit]
+- description: Dieses Paket dokumentiert Easy Documents.
+  number: 22
+  title: Easy Documents
+  topics: [Belegverarbeitung, Workflow, Ablage und Suche, Betriebsprozesse]
+- description: Dieses Paket bündelt Querschnittsintegrationen.
+  number: 23
+  title: Integrations
+  topics: [Schnittstellenübersicht, Betriebsmonitoring, Fehler- und Wiederanlaufprozesse,
+    Partneranbindungen]
+- description: Dieses Paket bündelt Datenobjekte und Datendomänen.
+  number: 24
+  title: Datenmodell
+  topics: [Stammdaten, Bewegungsdaten, Referenzdaten, Qualität und Governance]
+- description: Dieses Paket bündelt End-to-End-Prozesssicht.
+  number: 25
+  title: Prozesse
+  topics: [Prozesslandkarte, Abläufe, Kontrollen, Abhängigkeiten]
+- description: Dieses Paket bündelt Rollenmodelle und Verantwortlichkeiten.
+  number: 26
+  title: Rollen und Verantwortlichkeiten
+  topics: [RACI, Berechtigungen, Betrieb, Governance]
+- description: Dieses Paket bündelt Begriffe und Definitionen.
+  number: 27
+  title: Glossar
+  topics: [Fachbegriffe, Abkürzungen, Synonyme, Begriffsquellen]
+- description: Dieses Paket bündelt Kennzahlen und Messgrößen.
+  number: 28
+  title: KPI-Katalog
+  topics: [KPIs, Berechnung, Datenquelle, Verantwortung]
+- description: Dieses Paket bündelt Architekturentscheidungen.
+  number: 29
+  title: Architektur und ADR
+  topics: [Architekturprinzipien, ADRs, Standards, Abweichungen]
+- description: Dieses Paket bündelt ergänzende Querschnittsthemen.
+  number: 30
+  title: Querschnitt und Referenzen
+  topics: [Referenzen, Indexe, Versionierung, Pflegehinweise]

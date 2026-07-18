@@ -1,26 +1,19 @@
-    ---
-    title: Paket-Index
-    version: 0.1
-    language: de
-    tags:
-      - pakete
-      - index
-      - navigation
-    ---
+---
+title: Paket-Index
+version: 0.1
+language: de
+tags:
+  - pakete
+  - index
+  - navigation
+---
 
-    # Paket-Index
+# Paket-Index
 
-    Hier entsteht die vollständige Paketstruktur der Dynamics-365-Knowledge-Base.
+Hier entsteht die vollständige Paketstruktur der Dynamics-365-Knowledge-Base.
 
-    ## Startpunkte
-
-    - [Dokumentations-Startseite](../docs/README.md)
-    - [Vorlagen und Accelerators](../templates/README.md)
-    - [F-ID-Katalog](../indexes/f-id-katalog.md)
-
-    ## Pakete
-
-    - [Paket 01 – Grundlagen](paket-01-grundlagen.md)
+## Pakete
+- [Paket 01 – Grundlagen](paket-01-grundlagen.md)
 - [Paket 02 – Accounts Receivable](paket-02-accounts-receivable.md)
 - [Paket 03 – Accounts Payable](paket-03-accounts-payable.md)
 - [Paket 04 – General Ledger](paket-04-general-ledger.md)

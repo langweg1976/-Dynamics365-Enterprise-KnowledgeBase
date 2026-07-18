@@ -1,0 +1,25 @@
+easy-archive:
+  bullets: [Ablage, Indexfelder, Aufbewahrungsfristen, Suche]
+  description: Archivierung, Aufbewahrung und Wiederauffindbarkeit.
+  slug: easy-archive
+  title: Easy Archive
+easy-documents:
+  bullets: [Eingang, Workflow, Ablage, Aufruf]
+  description: Belegverarbeitung, Workflow und Dokumentenablage.
+  slug: easy-documents
+  title: Easy Documents
+fortune:
+  bullets: [Auftragsdaten, Statusrückmeldungen, Fehlerbilder, Monitoring]
+  description: Anbindung, Fachfluss und Betriebsaspekte rund um Fortune.
+  slug: fortune
+  title: Fortune-Integration
+seeburger-edi:
+  bullets: [Nachrichtenarten, Mappings, Fehlerhandling, Reprocessing]
+  description: EDI-Prozesse, Nachrichtenflüsse und Betriebsaspekte.
+  slug: seeburger-edi
+  title: Seeburger EDI
+wamas:
+  bullets: [Lagerbewegungen, Bestände, Rückmeldungen, Monitoring]
+  description: Anbindung, Fachfluss und Betriebsaspekte rund um WAMAS.
+  slug: wamas
+  title: WAMAS-Integration

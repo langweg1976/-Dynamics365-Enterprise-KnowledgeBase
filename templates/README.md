@@ -1,16 +1,15 @@
-    ---
-    title: Vorlagen und Accelerators
-    version: 0.1
-    language: de
-    tags:
-      - templates
-      - accelerator
-      - navigation
-    ---
+---
+title: Vorlagen und Accelerators
+version: 0.1
+language: de
+tags:
+  - templates
+  - accelerator
+  - navigation
+---
 
-    # Vorlagen und Accelerators
-
-    - [Paket-Index](../packages/README.md)
+# Vorlagen und Accelerators
+- [Paket-Index](../packages/README.md)
 - [F-ID-Katalog](../indexes/f-id-katalog.md)
 - [RFP_Bewertungskriterien](RFP_Bewertungskriterien.md) — Vorlage zur strukturierten Bewertung von Ausschreibungen.
 - [FIT_GAP_Template](FIT_GAP_Template.md) — Vorlage zur sauberen Erfassung von Fit-Gap-Ergebnissen.
