@@ -3,7 +3,7 @@
     version: 0.1
     language: de
     tags:
-      - pakete
+ ä     - pakete
       - index
       - navigation
     ---
