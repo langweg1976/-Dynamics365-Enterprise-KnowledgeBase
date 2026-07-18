@@ -16,7 +16,7 @@ tags:
 
     - KPIs
 - Berechnung
-- Datenquellen
+- Datenquelle
 - Verantwortung
 
     ## Verweise

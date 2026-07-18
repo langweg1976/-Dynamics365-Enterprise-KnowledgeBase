@@ -8,6 +8,7 @@ Willkommen in der Dynamics-365-Knowledge-Base.
 - [Paket-Index](packages/README.md)
 - [Vorlagen und Accelerators](templates/README.md)
 - [F-ID-Katalog](indexes/f-id-katalog.md)
+- [Integrationen](integrations/fortune.md)
 
 ## Zielbild
 

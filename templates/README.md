@@ -12,11 +12,11 @@
 
     - [Paket-Index](../packages/README.md)
 - [F-ID-Katalog](../indexes/f-id-katalog.md)
-- [RFP_Bewertungskriterien](RFP_Bewertungskriterien.md) — Bewertung von Ausschreibungen und Angeboten.
-- [FIT_GAP_Template](FIT_GAP_Template.md) — Erfassung von Fit-Gap-Bewertungen.
-- [Prozessdokumentation_Template](Prozessdokumentation_Template.md) — Standard für Prozessdokumentation.
-- [Rollenmatrix_RACI](Rollenmatrix_RACI.md) — Rollen- und Verantwortlichkeitsmatrix.
-- [Schnittstellenkatalog](Schnittstellenkatalog.md) — Katalog für Integrationen und Schnittstellen.
-- [Datenobjektkatalog](Datenobjektkatalog.md) — Katalog für Datenobjekte und Entitäten.
-- [Architekturentscheidungen_ADR](Architekturentscheidungen_ADR.md) — Vorlage für Architekturentscheidungen.
-- [KPI-Katalog](KPI-Katalog.md) — Vorlage für Kennzahlen und Messgrößen.
+- [RFP_Bewertungskriterien](RFP_Bewertungskriterien.md) — Vorlage zur strukturierten Bewertung von Ausschreibungen.
+- [FIT_GAP_Template](FIT_GAP_Template.md) — Vorlage zur sauberen Erfassung von Fit-Gap-Ergebnissen.
+- [Prozessdokumentation_Template](Prozessdokumentation_Template.md) — Vorlage für eine standardisierte Prozessdokumentation.
+- [Rollenmatrix_RACI](Rollenmatrix_RACI.md) — Vorlage für Verantwortlichkeiten und Zuständigkeiten.
+- [Schnittstellenkatalog](Schnittstellenkatalog.md) — Vorlage für Integrationen, Nachrichten und Betriebsaspekte.
+- [Datenobjektkatalog](Datenobjektkatalog.md) — Vorlage für Datenobjekte und fachliche Domänen.
+- [Architekturentscheidungen_ADR](Architekturentscheidungen_ADR.md) — Vorlage für Architekturentscheidungen und deren Auswirkungen.
+- [KPI-Katalog](KPI-Katalog.md) — Vorlage für Kennzahlen, Berechnungen und Verantwortlichkeiten.

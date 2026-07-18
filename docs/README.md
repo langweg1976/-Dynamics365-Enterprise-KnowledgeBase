@@ -18,6 +18,7 @@ Diese Seite führt durch die wesentlichen Bereiche der Knowledge Base.
 - [Paket-Index](../packages/README.md)
 - [F-ID-Katalog](../indexes/f-id-katalog.md)
 - [Vorlagen und Accelerators](../templates/README.md)
+- [Integrationen](../integrations/fortune.md)
 
 ## Aufbau
 
